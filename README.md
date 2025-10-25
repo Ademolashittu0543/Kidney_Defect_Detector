@@ -1,7 +1,7 @@
 # 🏥 Kidney Defect Detector
 
 > A deep learning solution for automated classification of kidney abnormalities from CT scan images using transfer learning and advanced neural networks.
-> The Deployed App ([ https://kidneydefectdetector-nwfae8vpevbpcd5qfehyaw.streamlit.app/ ])
+> The Deployed App ([ https://kidneydefectdetector-nwfae8vpevbpcd5qfehyaw.streamlit.app ])
 
 ---
 
