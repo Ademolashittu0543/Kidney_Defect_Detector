@@ -278,7 +278,7 @@ st.markdown("""
 @st.cache_resource(show_spinner=False)
 def load_prediction_model():
     try:
-        model = tf.keras.models.load_model("kidney_mobilenet11.keras")
+        model = tf.keras.models.load_model("kidney_mobilenet10.keras")
         return model
     except Exception as e:
         st.error(f"❌ Failed to load model: {str(e)}")
